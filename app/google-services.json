@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952450612638",
+    "firebase_url": "https://upvote-c8908.firebaseio.com",
+    "project_id": "upvote-c8908",
+    "storage_bucket": "upvote-c8908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952450612638:android:271a89869a798a75d62a8f",
+        "android_client_info": {
+          "package_name": "com.example.upvoteproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952450612638-jtr1jtg5keba8clfnlgbtmrvch6e2kmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0sIPYp4ztmq1uCiwf-f3Jm23-_5nqjqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952450612638-jtr1jtg5keba8clfnlgbtmrvch6e2kmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

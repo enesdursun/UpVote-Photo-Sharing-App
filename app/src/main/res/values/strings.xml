@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">upvoteproject</string>
+    <string name="kaydol">Kaydol</string>
+    <string name="giri_yap">Giriş Yap</string>
+    <string name="sifre">Sifre</string>
+    <string name="email">Email</string>
+</resources>
